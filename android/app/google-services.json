@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017709688270",
+    "project_id": "training-firestore",
+    "storage_bucket": "training-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017709688270:android:a1e00f704c25367094279f",
+        "android_client_info": {
+          "package_name": "com.example.training_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017709688270-89l6eana6pv56sq4d3k6kuri6v9s8ngd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtNsvsT8P2MhpTcxOU3bASkKtAPsTMjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017709688270-89l6eana6pv56sq4d3k6kuri6v9s8ngd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
